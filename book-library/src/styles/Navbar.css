@@ -1,0 +1,15 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 40px;
+  background: linear-gradient(90deg, #6366f1, #3b82f6);
+  color: white;
+}
+
+.nav a {
+  margin-left: 25px;
+  font-weight: 500;
+  color: white;
+  letter-spacing: 0.5px;
+  text-decoration: none;
+}
